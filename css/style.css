@@ -829,7 +829,8 @@ tbody tr span {
 .card-flip {
   /* background-color: #00c950; */
   perspective: 1200px;
-  width: 320px;
+  width: 100%;
+  max-width: 320px;
   height: 200px;
   margin-bottom: 16px;
 }
