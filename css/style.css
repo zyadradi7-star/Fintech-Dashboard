@@ -444,7 +444,6 @@ ul {
   align-items: center;
 }
 .icon {
-  background-color: red;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -556,8 +555,6 @@ ul {
   align-items: center;
 }
 
-.activity-item {
-}
 .activity-main {
   /* background-color: gold; */
   display: flex;
@@ -585,9 +582,7 @@ ul {
   cursor: pointer;
 }
 /* الفواتير الشهرية */
-.bill-card {
-  /* background-color: tomato; */
-}
+
 .header1 {
   /* background-color: #4a5565; */
   display: flex;
@@ -662,9 +657,7 @@ ul {
   justify-content: space-between;
   margin-bottom: 16px;
 }
-.transaction-table {
-  /* background-color: gold; */
-}
+
 table {
   width: 100%;
 }
@@ -766,9 +759,7 @@ tbody tr span {
 .income-content {
   /* background-color: gold; */
 }
-.chart-legend {
-  /* background-color: tan; */
-}
+
 .legend-item {
   /* background-color: tomato; */
   display: flex;
@@ -899,9 +890,7 @@ tbody tr span {
   width: 40px;
   height: 38px;
 }
-.front-content {
-  /* background-color: gold; */
-}
+
 .front-foot {
   /* background-color: #00c950; */
   display: flex;
